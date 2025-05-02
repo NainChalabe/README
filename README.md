@@ -1,5 +1,4 @@
-# README
-Presentación Personal / Personal Introduction
+# Presentación Personal / Personal Introduction
 👋 Hola, soy Nain Chalabe / Hi, Nain Chalabe
 Soy estudiante de Ingeniería de Sistemas con un enfoque en el desarrollo front-end y el diseño. Me apasiona crear soluciones digitales que mejoren la experiencia del usuario.
 
