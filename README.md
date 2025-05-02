@@ -1,5 +1,6 @@
 # Presentación Personal / Personal Introduction
 👋 Hola, soy Nain Chalabe / Hi, Nain Chalabe
+
 Soy estudiante de Ingeniería de Sistemas con un enfoque en el desarrollo front-end y el diseño. Me apasiona crear soluciones digitales que mejoren la experiencia del usuario.
 
 I am a Systems Engineering student focusing on front-end development and design. I am passionate about creating digital solutions that enhance user experience.
@@ -8,6 +9,7 @@ I am a Systems Engineering student focusing on front-end development and design.
 Edad: 18 años / Age: 18 years
 Ubicación: Cartagena, Colombia / Location: Cartagena, Colombia
 Estudios: Ingeniería de Sistemas / Studies: Systems Engineering
+
 🌟 Mis Intereses / My Interests
 Desarrollo Front-End: Me encanta trabajar con HTML, CSS y JavaScript, y siempre estoy buscando aprender nuevas tecnologías y frameworks.
 
